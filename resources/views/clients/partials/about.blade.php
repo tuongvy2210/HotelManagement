@@ -4,8 +4,8 @@
         <div class="row g-5 align-items-center">
             <div class="col-lg-6">
                 <h6 class="section-title text-start text-primary text-uppercase">Giới thiệu</h6>
-                <h1 class="mb-4">Chào mừng đến với <span class="text-primary text-uppercase">H&V Hotel</span></h1>
-                <p class="mb-4">H&V Hotel với phương châm luôn mang đến cho Khách hàng những trải nghiệm dịch vụ tốt
+                <h1 class="mb-4">Chào mừng đến với <span class="text-primary text-uppercase">Vy Hotel</span></h1>
+                <p class="mb-4">Vy Hotel với phương châm luôn mang đến cho Khách hàng những trải nghiệm dịch vụ tốt
                     nhất</p>
                 <div class="row g-3 pb-4">
                     <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">

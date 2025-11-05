@@ -5,10 +5,10 @@
             <div class="col-md-6 col-lg-4">
                 <div class="bg-primary rounded p-4">
                     <a href="{{ route('index') }}">
-                        <h1 class="text-white text-uppercase mb-3">H&V Hotel</h1>
+                        <h1 class="text-white text-uppercase mb-3">Vy Hotel</h1>
                     </a>
                     <p class="text-white mb-0">
-                        H&V Hotel với phương châm luôn mang đến cho Khách hàng những trải nghiệm dịch vụ tốt nhất
+                        Vy Hotel với phương châm luôn mang đến cho Khách hàng những trải nghiệm dịch vụ tốt nhất
                     </p>
                 </div>
             </div>
