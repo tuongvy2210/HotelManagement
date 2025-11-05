@@ -115,7 +115,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <select class="form-select" id="select2" required>
+                                        <select class="form-select" id="select2">
                                             <option value="">Vui lòng chọn</option>
                                             @for ($i = 1; $i <= 3; $i++)
                                                 <option value="{{ $i }}"
