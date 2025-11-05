@@ -146,7 +146,7 @@ class ClientController extends Controller
     public function storeBooking(Request $request)
     {
         Booking::create([
-            'customer_id' => 1,
+            'customer_id' => Auth::guard('user')->user()->customer->id,
             'room_type_id' => $request->room_type_id,
             'booking_at' => now(),
             'checkin_at' => Carbon::createFromFormat('m/d/Y h:i A', $request->checkin_at),
